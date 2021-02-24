@@ -2,6 +2,7 @@
 Website/GUI for Energy Disaggregation
 
 The objective of this project is to provide a way for end users to visualize the data that is disaggregated via our neural network.
+TODO: Make HTML Mockup of at least one of the menus, if not all.
 
 App menu structure
 
